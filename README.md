@@ -10,15 +10,11 @@ For safety, you will be prompted for each replace.
 
 There is a single command called like so.
 
-<code>
-:ReplaceScope (toReplace) (replacedBy)
-</code>
+`:ReplaceScope <toReplace> <replacedBy>`
 
 <br>
 
-<code>
-<leader>r (toReplace) (replacedBy)
-</code>
+`<leader>r <toReplace> <replacedBy>`
 
 ### Disclaimer: Not tried and tested
 
