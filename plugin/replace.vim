@@ -1,4 +1,5 @@
 command! -nargs=+ ReplaceScope call ReplaceScope(<f-args>)
+nnoremap <Leader>r :ReplaceScope 
 
 function! ReplaceScope(toReplace, replacedBy)
 	let l:scope2 = FindScope()
