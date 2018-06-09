@@ -11,11 +11,11 @@ For safety, you will be prompted for each replace.
 There is a single command called like so.
 
 <code>
-:ReplaceScope \<toReplace\> \<replacedBy\>
+:ReplaceScope \(toReplace\) \(replacedBy\)
 </code>
 
 <code>
-<leader>r \<toReplace\> \<replacedBy\>
+<leader>r \(toReplace\) \(replacedBy\)
 </code>
 
 ### Disclaimer: Not tried and tested
