@@ -1,7 +1,7 @@
 # vim-dzl-replace
 <br>
 
-![Usage Example](# "Nothing yet")
+![Usage Example](https://i.imgur.com/IaekVOL.gif)
 
 A simple scope search and replace. Scope is defined by the indentation level.
 For safety, you will be prompted for each replace.
